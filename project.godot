@@ -1,0 +1,16 @@
+; Crisp Quest Free Theme - demo project. Open this folder in Godot 4.3 or newer and press F5,
+; or copy addons/crisp_quest_free into your own project.
+config_version=5
+
+[application]
+
+config/name="Crisp Quest Free Theme"
+run/main_scene="res://addons/crisp_quest_free/demo/quest_free_demo.tscn"
+config/features=PackedStringArray("4.3")
+config/icon="res://icon.png"
+
+[display]
+
+window/size/viewport_width=1152
+window/size/viewport_height=648
+window/stretch/mode="canvas_items"
